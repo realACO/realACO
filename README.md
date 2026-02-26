@@ -48,8 +48,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=realaco&show_icons=true&count_private=true&cache_seconds=1800"
-    alt="GitHub stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realaco&theme=github" />
 </p>
