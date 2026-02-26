@@ -2,7 +2,9 @@
 <h3 align="center">Student Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realaco&label=Profile%20views&color=555555&style=flat" alt="realaco" />
+  <img src="https://komarev.com/ghpvc/?username=realaco&label=Views&color=555555&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Learning%20React-blue?style=flat" />
 </p>
 
 ---
@@ -43,8 +45,8 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,tailwind,firebase,mysql,git,unity" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,tailwind,firebase,mysql,git,unity&perline=7" />
 </p>
 
 ---
@@ -57,8 +59,11 @@
 ---
 
 ### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Overview</h3>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realaco&theme=github" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realaco&theme=github" />
 </p>
 
 ---
