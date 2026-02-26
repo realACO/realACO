@@ -15,19 +15,27 @@
 
 ---
 
-### 📫 Contact
-- 📧 **Email:** ashishoomman@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/ashish-chacko-oomman-213165372  
-
----
-
 ### 🌐 Coding Profiles
-<p align="left">
-  <a href="https://www.codechef.com/users/realaco" target="_blank">CodeChef</a> •
-  <a href="https://codeforces.com/profile/realaco" target="_blank">Codeforces</a> •
-  <a href="https://www.leetcode.com/a_c_o" target="_blank">LeetCode</a> •
-  <a href="https://www.hackerrank.com/csh23062" target="_blank">HackerRank</a> •
-  <a href="https://auth.geeksforgeeks.org/user/realaco" target="_blank">GeeksforGeeks</a>
+<p align="center">
+  <a href="https://www.codechef.com/users/realaco" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/realaco" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.leetcode.com/a_c_o" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/csh23062" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/realaco" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="40" height="40" />
+  </a>
 </p>
 
 ---
@@ -50,3 +58,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realaco&theme=github" />
 </p>
+
+---
+
+### 📫 Contact
+- 📧 **Email:** ashishoomman@gmail.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/ashish-chacko-oomman-213165372  
