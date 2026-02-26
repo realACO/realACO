@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Chacko Oomman</h1>
-<h3 align="center">Student Developer from India 🇮🇳</h3>
+<h1 align="center">Hello, I am ASHISH CHACKO OOMMAN</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=realaco&label=Profile%20views&color=555555&style=flat" alt="realaco" />
