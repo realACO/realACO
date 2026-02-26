@@ -17,24 +17,26 @@
 
 ### 🌐 Coding Profiles
 <p align="center">
-  <a href="https://www.codechef.com/users/realaco" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40" height="40" />
+  <a href="https://www.codechef.com/users/realaco">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/realaco" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/realaco">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/a_c_o" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40" />
+</p>
+
+<p align="center">
+  <a href="https://www.leetcode.com/a_c_o">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/csh23062" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/csh23062">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/realaco" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/realaco">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
