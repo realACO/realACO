@@ -1,7 +1,8 @@
 <h1 align="center">Hello, I am ASHISH CHACKO OOMMAN</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realaco&label=Profile%20views&color=555555&style=flat" alt="realaco" />
+  <img src="https://komarev.com/ghpvc/?username=realaco&label=Views&color=555555&style=flat" />
+  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat" />
 </p>
 
 ---
