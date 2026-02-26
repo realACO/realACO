@@ -5,10 +5,12 @@
 </p>
 
 ---
-
-### 📅 Contribution Calendar
+### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realaco&theme=github" />
+  <img
+    src="https://streak-stats.demolab.com?user=realaco&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
