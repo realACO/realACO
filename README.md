@@ -6,13 +6,6 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Student developer with a strong interest in software engineering  
-- 💻 Interested in **Web Development, DSA**, and building practical projects  
-- 🚀 Focused on consistency and long-term improvement  
-
----
-
 ### 🌐 Coding Profiles
 <p align="center">
   <a href="https://www.codechef.com/users/realaco">
