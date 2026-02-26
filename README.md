@@ -1,72 +1,67 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#4F46E5;">Ashish Chacko Oomman</span></h1>
-<h3 align="center">
-  <span style="color:#22C55E;">Student Developer</span> from 
-  <span style="color:#F97316;">India 🇮🇳</span>
-</h3>
+<h1 align="center">Hi 👋, I'm Ashish Chacko Oomman</h1>
+<h3 align="center">Student Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realaco&label=Profile%20views&color=4F46E5&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20DSA-22C55E?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Active-F97316?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=realaco&label=Profile%20views&color=555555&style=flat" alt="realaco" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Student developer with a strong interest in **software engineering**
-- 💻 Passionate about **Web Development & DSA**
-- 🚀 Focused on building practical projects and growing consistently
+### 👨‍💻 About Me
+- 🎓 Student developer with a strong interest in software engineering  
+- 💻 Interested in **Web Development, DSA**, and building practical projects  
+- 🚀 Focused on consistency and long-term improvement  
 
 ---
 
-## 🌐 Coding Profiles
+### 🌐 Coding Profiles
 <p align="center">
   <a href="https://www.codechef.com/users/realaco">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/realaco">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.leetcode.com/a_c_o">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/csh23062">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-22C55E?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.leetcode.com/a_c_o">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/csh23062">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/realaco">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-16A34A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,tailwind,firebase,mysql,git,unity&perline=7" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realaco&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realaco&theme=github" />
 </p>
 
 ---
 
-## 📊 GitHub Overview
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realaco&theme=react-dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=realaco&theme=github" />
 </p>
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 - 📧 **Email:** ashishoomman@gmail.com  
 - 💼 **LinkedIn:** https://linkedin.com/in/ashish-chacko-oomman-213165372  
