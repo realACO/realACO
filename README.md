@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ashish Chacko Oomman</h1>
-<h3 align="center">A passionate student developer from India 🇮🇳</h3>
+<h3 align="center">Student Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realaco&label=Profile%20views&color=0e75b6&style=flat" alt="realaco" />
+  <img src="https://komarev.com/ghpvc/?username=realaco&label=Profile%20views&color=555555&style=flat" alt="realaco" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Student developer
-- 🌱 Currently learning **React**
-- 💻 Interested in Web Development, DSA & building real-world projects
-- 🚀 Always learning, always improving
+- 🎓 Student developer with a strong interest in software engineering  
+- 🌱 Currently learning **React** and modern frontend development  
+- 💻 Interested in **Web Development, DSA**, and building practical projects  
+- 🚀 Focused on consistency and long-term improvement  
 
 ---
 
-### 📫 How to reach me
-- 📧 **Email:** ashishoomman@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/ashish-chacko-oomman-213165372
+### 📫 Contact
+- 📧 **Email:** ashishoomman@gmail.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/ashish-chacko-oomman-213165372  
 
 ---
 
@@ -41,12 +41,15 @@
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realaco&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realaco&theme=github" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realaco&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=realaco&show_icons=true&count_private=true&cache_seconds=1800"
+    alt="GitHub stats"
+  />
 </p>
